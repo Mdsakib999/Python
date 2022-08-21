@@ -1,3 +1,5 @@
+#print love with given input 
+
 n = 6
 m = 7
 for i in range(n):
