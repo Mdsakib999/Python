@@ -20,7 +20,7 @@ for i in range(n):
         if (i ==0 and j % 3 !=0) or (i==1 and j % 3 ==0) or (i-j == 2) or (i+j == 8):
             print("*", end="  ")
         elif (i == 2 and j == 3):
-            print("S+N", end="")
+            print(" ", end="")
         else:
             print(" ", end="  ")
         
