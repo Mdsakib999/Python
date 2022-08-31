@@ -1,4 +1,4 @@
-#take 3 angle from user and check make triangle or not
+#take 3 angle from user and check it possible to make triangle or not???
 
 a = int(input("Enter angle a :"))
 b = int(input("Enter angle b :"))
