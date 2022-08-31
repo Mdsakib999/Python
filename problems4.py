@@ -1,4 +1,4 @@
-#calculate profit or loss of any product
+#How to calculate profit or loss of any product??
 
 a = float(input('Enter buying cost :'))
 b = float(input('Enter selling cost :'))
