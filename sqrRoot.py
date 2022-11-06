@@ -1,4 +1,4 @@
-#Sqe root of complex nuberr
+#Find out the Sqr root of complex number.
 
 import cmath
 
@@ -8,6 +8,9 @@ num_sqr = cmath.sqrt(numbr)
 
 print("the sqr root od {0} is {1:0.3f}+{2:0.3f}j".format(numbr,num_sqr.real,num_sqr.imag))
 
+
+
+#Another way
 """
 a = int(input("enterr a :"))
 b = int(input("enterr b :"))
