@@ -1,7 +1,8 @@
 #Guess a number in the range.
 
-#import random
-#print(random.randint(0,9))
+#print a number rendomly between given range.
+
+
 
 import random
 
