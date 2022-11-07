@@ -1,3 +1,5 @@
+#Multiplication Table using for and while loop.
+
 x = int(input("Enter a number : "))
 
 for i in range(1, 11):
