@@ -1,4 +1,4 @@
-#Find the factor of given number?
+#Find the factorial of given number?
 
 def factor(x):
     for i in range(1, x+1):
