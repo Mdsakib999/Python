@@ -1,4 +1,5 @@
 #hacker rank challange
+# bin oct hax 
 
 def print_formatted(number):
     # your code goes here
