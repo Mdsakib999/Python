@@ -1,4 +1,6 @@
 #the two sum problem using python? if a + b = g. return len(a,b)
+# Sum in list
+
 
 def twosum(nums, target):
     length = len(nums)
