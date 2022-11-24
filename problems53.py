@@ -1,4 +1,6 @@
 #Shuffle Duck of card using random module...?
+# Simple game
+
 
 import itertools, random
 
