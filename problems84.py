@@ -1,4 +1,5 @@
-# Default function to implement conditions to check leap year  
+# Default function to implement conditions to check leap year (In 3 ways) 
+
 """"
 def CheckLeap(Year):   
   if((Year % 400 == 0) or  
