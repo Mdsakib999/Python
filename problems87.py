@@ -1,6 +1,7 @@
 #Guess a number in the range.
 
-#print a number rendomly between given range.
+#print a number rendomly between given range. 
+# rendom Number
 
 
 
