@@ -1,5 +1,5 @@
 
-#Reverse a String using Python?
+#How to Reverse a String using Python?
 
 def rev_str(string):
     return string[::-1]
