@@ -10,7 +10,7 @@ factrial(5)
 
 
 """
-#2nd way..
+# Another way
 
 n = 6
 fact = 1
