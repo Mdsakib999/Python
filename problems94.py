@@ -1,3 +1,5 @@
+# Number patten.........
+
 """
 n = 5
 p = 5
