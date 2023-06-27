@@ -1,4 +1,4 @@
-#calculate parcentage
+#Calculate parcentage
 
 a = float(input("Enter total amount :"))
 b = float(input("Enter rate or percentage :"))
