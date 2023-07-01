@@ -1,3 +1,7 @@
+# Patten 
+# make a patten hill using patten.....
+
+
 """
 #n = int(input())
 n = 5
