@@ -1,5 +1,6 @@
 #opp practice (calculate the aria of Triangle)
 
+
 class Triangle:
     def __init__(self, base, hight):
         self.base = base
