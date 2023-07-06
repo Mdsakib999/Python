@@ -1,4 +1,5 @@
 #--------prime number------
+# Check a number Prime on not.......
 
 #num = -5
 num = int(input("Enter a number: "))
