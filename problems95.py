@@ -2,8 +2,6 @@
 # oppAbstrraction
 
 
-
-
 from abc import ABC,abstractmethod
 
 #example of abastraction
