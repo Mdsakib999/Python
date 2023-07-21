@@ -1,5 +1,6 @@
 #Fibonacci Sequence (sum of first two number)
 
+
 #nterm = -5
 nterm = int(input("Enter a number :"))
 
