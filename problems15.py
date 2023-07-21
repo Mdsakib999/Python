@@ -1,4 +1,5 @@
-# Convert celsius to Fahrenheit ....
+# Convert celsius to Fahrenheit ....?
+
 
 temp = float(input("Enter temperature : "))
 unit = input("enter unit 'C' or 'F' which want to convert : ")
@@ -11,7 +12,7 @@ if unit == "c" or "C":
 elif unit == "f" or "F":
     new_temp = 5/9 * (temp-32)
     #print(temp,"Fahrenheit is equal to", new_temp, "celsius :", new_temp)
-    print("temperature in Celsius ",new_temp)
+    print("temperature in Celsius ",new_temp);
 
 else:
-    print("Invalid unit", unit)
+    print("Invalid unit", unit);
