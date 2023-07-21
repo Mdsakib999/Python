@@ -1,11 +1,11 @@
-# Floor division
+# Floor division in Python?
 
-a = int(input("Enter a :"))
-b = int(input("Enter b :"))
+a = int(input("Enter a :"));
+b = int(input("Enter b :"));
 
 c = a//b        #c = math.floor(a/b)
 
-print("Floor divission", c)
+print("Floor divission", c);
 
 """
 import math
