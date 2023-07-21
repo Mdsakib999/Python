@@ -1,6 +1,7 @@
 #sum and reverse of a 3 digit number given by user
 
-num = int(input("enter a three disit number :"))
+
+num = int(input("enter a three disit number :"));
 
 a = num % 10        #345 % 10 = 5
 num = num // 10     #345 // 10 =034
