@@ -1,4 +1,4 @@
-#Sum and Average of given number
+#Calculate the Sum and Average of given number?
 
 len = int(input("How many number do you want to enter : "))
 num = []
