@@ -1,4 +1,4 @@
-#sum of first n number
+#Q: Calculate the sum of first n number?
 
 num = int(input("Enter your number : "))
 
