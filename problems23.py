@@ -1,4 +1,4 @@
-#factorial of given number of user
+#Q: Calculate the factorial of given number of user?
 
 num = int(input("Enter number : "))
 user_inp = num
