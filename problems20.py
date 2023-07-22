@@ -9,7 +9,7 @@ What do you want convert.
 4. convert km to mile
 ''')
 
-if userInput == "1":
+if userInput == '1':
     cm = float(input("Enter cm : "))
     inch = cm * 0.394
     print(cm,"cm =", inch,"inc")
