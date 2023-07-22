@@ -1,4 +1,6 @@
-#sum of given list
+#Calculate the sum of given list??
+
+
 
 def sum_list(nums):
     sum = 0
