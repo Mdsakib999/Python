@@ -1,4 +1,3 @@
-
 #Python program to find the euclidean distance??
 
 x1 = float(input("Enter x1 of x cordenate :"))
