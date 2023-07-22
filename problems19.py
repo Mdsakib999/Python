@@ -1,4 +1,4 @@
-#Check Armstrong number or not.
+#Q: Check Armstrong number or not?
 
 userInput = int(input("Enter your number : "))      #enter 3 digit number
 nums = userInput
