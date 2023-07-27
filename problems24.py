@@ -1,4 +1,4 @@
-#calculate HCF and LCM 
+#calculate HCF and LCM using Python?
 
 a = int(input("Enter 1st number : "))
 b = int(input("Enter 2nd number : "))
