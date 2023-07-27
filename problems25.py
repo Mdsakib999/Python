@@ -1,5 +1,6 @@
 #OPPs problems solution (calculate discount)?
 
+
 class Laptop:
     def __init__(self, name, brand, price):
         self.name = name
