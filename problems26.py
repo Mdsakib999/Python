@@ -1,4 +1,4 @@
-# print Fibonacci Sequence
+# Print the Fibonacci Sequence in Python?
 
 number = int(input("Enter number : "))
 
