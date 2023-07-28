@@ -1,4 +1,6 @@
-#find the sum of Natural Number 
+#find the sum of Natural Number ???
+
+
 
 num = int(input("Enter number : "))
 
