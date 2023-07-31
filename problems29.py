@@ -1,4 +1,4 @@
-#Hacker rank problem solution
+#Hacker rank problem solution?
 
 t = int(input())#.strip())
 
@@ -9,4 +9,4 @@ for i in range(t):
         if i % 3 == 0 or i % 5 == 0:
             sum += i
         
-    print(sum)
+    print(sum);
