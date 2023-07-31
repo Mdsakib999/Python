@@ -1,4 +1,4 @@
-#opps problems
+#Q: opps related problem.
 
 class SmartDiv:
     def __init__(self, brand, price):
