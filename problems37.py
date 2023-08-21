@@ -1,6 +1,7 @@
 #HackerRank30 days of code || Day 6 || Python
 
-n = int(input())
+n = int(input());
+
 for i in range(n):
     s = input("string ")
     even = ""
