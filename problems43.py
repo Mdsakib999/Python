@@ -1,5 +1,5 @@
 #hacker rank challange
-# bin oct hax 
+# binary to hexa conversion |------------|
 
 def print_formatted(number):
     # your code goes here
@@ -11,5 +11,5 @@ def print_formatted(number):
         bina = bin(i)[2:]
         print(deci.rjust(width),octa.rjust(width),hexa.rjust(width),bina.rjust(width))
 if __name__ == '__main__':
-    n = int(input())
-    print_formatted(n)
+    n = int(input());
+    print_formatted(n);
