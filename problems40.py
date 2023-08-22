@@ -1,4 +1,4 @@
-#Find Missing Number in a list
+#Q: Find Missing Number in a list??
 
 def findMissingNumbers(n):
     numbers = set(n)
@@ -7,7 +7,7 @@ def findMissingNumbers(n):
     for i in range(1, length + 1):
         if i not in numbers:
             output.append(i)
-    return output
+    return output;
     
 listOfNumbers = [1, 2, 3, 5, 7, 8, 9]
-print(findMissingNumbers(listOfNumbers))
+print(findMissingNumbers(listOfNumbers));
