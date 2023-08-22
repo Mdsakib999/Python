@@ -1,4 +1,4 @@
-#Remove duplicate character from given string.
+#Q: How to remove duplicate character from given string?
 
 def remove_dupli(string):
     result = ""
@@ -10,4 +10,4 @@ def remove_dupli(string):
 
 user_inp = input("what is your name my boy. saki sakib Wht you are so upset")
 no_dupli = remove_dupli(user_inp)
-print("without duplicate", no_dupli)
+print("without duplicate", no_dupli);
