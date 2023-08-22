@@ -8,6 +8,6 @@ with open("blog.html") as file:
     for i in text:
         if i.isupper():
             count += 1
-    print(count)
+    print(count);
 
     list_num = {}
