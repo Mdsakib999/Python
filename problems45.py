@@ -1,3 +1,4 @@
+# Q: How to print date using python?
 
 import calendar
 
