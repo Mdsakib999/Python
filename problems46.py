@@ -9,6 +9,6 @@ def twosum(nums, target):
             if nums[i] + nums[j] == target:
                 return [i, j]
 
-n = [3, 1, 1, 2]
-t = 5
-print(twosum(n, t))
+n = [3, 1, 1, 2];
+t = 5;
+print(twosum(n, t));
