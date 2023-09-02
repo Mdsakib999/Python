@@ -6,9 +6,9 @@ def rec_factorial(n):
     else:
         return n * rec_factorial(n-1)
 
-num = 10
+num = 10;
 
 if num <= 0:
-    print("Enter a positive number : ")
+    print("Enter a positive number : ");
 else:
-    print("The factorial of", num, "is", rec_factorial(num))
+    print("The factorial of", num, "is", rec_factorial(num));
