@@ -14,12 +14,14 @@ def lcm(x, y):
 
 num1 = 54
 num2 = 24
-print("The LCM of", num1, "and", num2,"is : ", lcm(num1, num2))
+print("The LCM of", num1, "and", num2,"is : ", lcm(num1, num2));
 
 
 
 
 """
+# way 2
+
 def gcd(x, y):
 
     while(y):
@@ -28,12 +30,12 @@ def gcd(x, y):
 
 def lcm(x, y):
     lcm = (x * y) // gcd(x, y)
-    return lcm
+    return lcm;
 
 
 n1 = 54
 n2 = 24
 
-print(lcm(n1, n2))
+print(lcm(n1, n2));
 
 """
