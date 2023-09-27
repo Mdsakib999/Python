@@ -9,4 +9,4 @@ def dec_to_bin(n):
 dec = int(input("Enter a Decimal number : "))        #3.2, 50.2 float number is not possible to convert
 
 dec_to_bin(dec)
-print()
+print();
