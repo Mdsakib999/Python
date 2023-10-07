@@ -1,4 +1,5 @@
-#swift number in 3 ddifferent way
+#swift number in 3 ddifferent way..
+# Swifing number in different way..
 
 a = 4
 b = 5
@@ -20,6 +21,6 @@ a = a-b
 
 a,b =b,a
 
-print(a)
-print(b)
+print(a);
+print(b);
 
