@@ -1,4 +1,4 @@
-#Remove punctuation from string.
+#Write a python code to Remove punctuation from string.
 
 from string import punctuation
 
@@ -13,4 +13,4 @@ for char in myString:
     if char not in punctuation:
         no_punc = no_punc + char
 
-print(no_punc)
+print(no_punc);
