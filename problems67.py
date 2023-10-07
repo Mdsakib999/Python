@@ -1,4 +1,4 @@
-#Simple Interest counter.
+#Write a python program to calculate Interest counter.
 
 main_amount = int(input("How money you borrowed? "))
 interest_rate = float(input("Interest rate: "))
@@ -10,7 +10,7 @@ print("Simple Interest is", interest)
 
 total_amount = main_amount + interest
 
-print("Total amount with Interest is", total_amount)
+print("Total amount with Interest is", total_amount);
 
 
 
