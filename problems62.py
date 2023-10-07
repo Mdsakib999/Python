@@ -9,6 +9,6 @@ my_string = my_string.casefold()
 rev_str = reversed(my_string)
 
 if list(my_string) == list(rev_str):
-    print(my_string, "is palindrome.")
+    print(my_string, "is palindrome.");
 else:
-    print("It's not palindrome.")
+    print("It's not palindrome.");
