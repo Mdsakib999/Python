@@ -1,4 +1,4 @@
-#Count the number of each Vowel
+#Count the number of each Vowel 
 
 from itertools import count
 
@@ -15,4 +15,4 @@ for char in my_str:
     if char in count:
         count[char]
 
-print(count)
+print(count);
